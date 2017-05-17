@@ -1,0 +1,2 @@
+- module(number_of_time_function_called).
+- compile(export_all).

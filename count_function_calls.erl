@@ -1,0 +1,2 @@
+- module(count_function_calls).
+- compile(export_all).
